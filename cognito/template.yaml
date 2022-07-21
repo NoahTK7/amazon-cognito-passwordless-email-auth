@@ -11,14 +11,6 @@ Metadata:
     Name: amazon-cognito-passwordless-email-auth
     Description: >
       An Amazon Cognito user pool, pre-configured with AWS Lambda triggers to implement passwordless e-mail auth
-    Author: AWS Samples
-    SpdxLicenseId: MIT-0
-    LicenseUrl: LICENSE
-    ReadmeUrl: README.md
-    Labels: ["cognito", "passwordless", "authentication", "auth", "sample"]
-    HomepageUrl: https://github.com/aws-samples/amazon-cognito-passwordless-email-auth/tree/master/cognito
-    SemanticVersion: 1.0.3
-    SourceCodeUrl: https://github.com/aws-samples/amazon-cognito-passwordless-email-auth/tree/master/cognito
 
 Globals:
   Function:

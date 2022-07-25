@@ -8,7 +8,7 @@ Description: >
 
 Metadata:
   AWS::ServerlessRepo::Application:
-    Name: amazon-cognito-passwordless-email-auth
+    Name: codereal-email-auth
     Description: >
       An Amazon Cognito user pool, pre-configured with AWS Lambda triggers to implement passwordless e-mail auth
 
